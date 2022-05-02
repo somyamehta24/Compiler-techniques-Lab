@@ -1,0 +1,4 @@
+printf(sdfssf)
+scanf(dasdadsdas)
+printf()
+scanf()
